@@ -12,7 +12,7 @@ const Balance = ({ darkMode }) => {
         <h1 className="font-bold text-2xl">
           $600,000 <span className="font-medium text-xl">(USD)</span>
         </h1>
-        <span>on July 2024</span>
+        <span>on Feb 2025</span>
       </div>
       <Barchart darkMode={darkMode} />
     </div>

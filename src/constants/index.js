@@ -42,7 +42,7 @@ export const links = [
     icon: FaFacebookMessenger,
     text: "Inbox",
     badge: {
-      text: "4",
+      text: "9",
       color: "bg-blue-100 text-blue-800",
       darkColor: "dark:bg-blue-900 dark:text-blue-300",
     },
@@ -79,13 +79,13 @@ export const employeesData = [
   {
     title: "On Leave",
     icon: IoIosEyeOff,
-    count: 15,
+    count: 20,
     bgColor: "bg-blue-100",
   },
   {
     title: "New Joinee",
     icon: IoIosPersonAdd,
-    count: 25,
+    count: 30,
     bgColor: "bg-yellow-100",
   },
 ];
@@ -111,28 +111,28 @@ export const shortcutLink = [
 
 export const users = [
   {
-    name: "Robert Fox",
+    name: "Mark Cuban",
     country: "USA",
     role: "Python Developer",
     image: user01,
     bgColor: "bg-yellow-100",
   },
   {
-    name: "Jane Doe",
+    name: "Harry kane",
     country: "UK",
     role: "Frontend Developer",
     image: user02,
     bgColor: "bg-blue-100",
   },
   {
-    name: "John Smith",
+    name: "Nadim",
     country: "Canada",
     role: "Backend Developer",
     image: user03,
     bgColor: "bg-gray-100",
   },
   {
-    name: "Alice Johnson",
+    name: "Michael",
     country: "Australia",
     role: "Full Stack Developer",
     image: user01,
